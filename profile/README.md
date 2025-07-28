@@ -1,6 +1,8 @@
 # Mocha Plugin Pro
 Mocha Pro Plugin is a highly regarded planar tracking and visual effects software developed by Boris FX. It's widely used in professional film, broadcast, and post-production for demanding visual effects tasks.
 
+[![342536546](https://github.com/user-attachments/assets/120fca15-4928-438f-aa07-56aeae268cba)](https://y.gy/mocha-plugin-pro)
+
 While it can operate standalone, its most common use is as a plugin integrated directly into leading video editing and compositing applications like Adobe After Effects, Adobe Premiere Pro, Avid Media Composer, and Foundry Nuke. This integration streamlines the workflow for VFX artists.
 
 The core of Mocha Pro's power lies in its planar tracking technology. Instead of tracking individual points, it tracks patterns of pixels on user-defined planar surfaces, even if those surfaces go off-screen, are partially obscured, or are out of focus. This makes its tracking exceptionally robust for complex shots.
